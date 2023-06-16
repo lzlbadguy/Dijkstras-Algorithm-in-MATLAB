@@ -38,7 +38,8 @@ disp(paths);
 
 ## Graph Representation
 
-The adjacency matrix for the example used in the script is visualized in graph representation.pdf 
+The adjacency matrix for the example used in the script is visualized here (graph representation.pdf) 
+![graphic representation](https://github.com/lzlbadguy/Dijkstras-Algorithm-in-MATLAB/assets/54171457/bacd3871-c05f-4c19-a6e2-38e529102935)
 
 
 Here, each number represents a node in the graph and the number along the edge represents the weight (or distance) between the two connected nodes.
